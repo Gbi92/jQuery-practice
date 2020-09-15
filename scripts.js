@@ -15,5 +15,5 @@ if (number > 100){
 if (word === "cool"){
     $('.south').html("Power of DOM");
 } else {
-    $('.south').html("Power of DOM");
+    $('.west').html("Power of DOM");
 }
